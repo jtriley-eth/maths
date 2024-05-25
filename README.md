@@ -6,5 +6,6 @@ reading is as follows:
 
 - [Set Theory](./src/set-theory.ipynb)
 - [Group Theory](./src/group-theory.ipynb)
+- [Order Theory](./src/order-theory.ipynb)
 - Category Theory (todo)
 - Linear Algebra (todo)
